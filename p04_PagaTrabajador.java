@@ -1,4 +1,4 @@
-// p04_PagaTrabajador - Calcula el area de un triangulo
+// p04_PagaTrabajador - Calcula el monto a pagar a un empleado
 // 14 - 08 - 2024       v.1
 // Luis Manuel Flores - POO1
 
