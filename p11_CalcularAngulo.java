@@ -1,4 +1,4 @@
-// p11_CalcularAngulo - Calcula el tercer angulo de un triángulo dados los otros dos angulos
+// p11_CalcularAngulo - Calcula el tercer angulo de un triángulo dados los otros dos angulos 
 // 19 - 08 - 2024       v.1
 // Luis Manuel Flores - POO1
 

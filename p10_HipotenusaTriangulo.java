@@ -1,4 +1,4 @@
-// p10_HipotenusaTriangulo - Calcula la hipotenusa de un triángulo rectángulo dadas las longitudes de sus lados
+// p10_HipotenusaTriangulo - Calcula la hipotenusa de un triángulo rectángulo dadas las longitudes de sus lados 
 // 19 - 08 - 2024       v.1
 // Luis Manuel Flores - POO1
 

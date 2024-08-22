@@ -1,4 +1,4 @@
-// p13_VolumenCilindro - Dada una cantidad de horas, calcula su equivalente en días, minutos y segundos.
+// p13_VolumenCilindro - Dada una cantidad de horas, calcula su equivalente en días, minutos y segundos. 
 // 19 - 08 - 2024       v.1
 // Luis Manuel Flores - POO1
 

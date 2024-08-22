@@ -1,4 +1,4 @@
-// p12_ConvertirTemperatura - Convirte una temperatura de grados fahrenheit a grados celsius
+// p12_ConvertirTemperatura - Convirte una temperatura de grados fahrenheit a grados celsius 
 // 19 - 08 - 2024       v.1
 // Luis Manuel Flores - POO1
 

@@ -1,4 +1,4 @@
-// p15_ConvertirADolares - Dada una cantidad de pesos se desea conocer el equivalentye a dolares.
+// p15_ConvertirADolares - Dada una cantidad de pesos se desea conocer el equivalentye a dolares. 
 // 19 - 08 - 2024       v.1
 // Luis Manuel Flores - POO1
 
