@@ -1,4 +1,4 @@
-// p27_AceptarEstudiante - Acepta a un estudiante en base a su edad y sus calificaciones
+// p27_AceptarEstudiante - Calcula fuerza, masa, y aceleración de acuerdo a la segunda ley de newton
 // 22 - 08 - 2024       v.1
 // Luis Manuel Flores - POO1
 
