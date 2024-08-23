@@ -1,5 +1,5 @@
 // p24_PagaTrabajadorv2 - Calcular la paga de un trabajador, las horas extra se pagan al doble
-// 21 - 08 - 2024       v.1
+// 22 - 08 - 2024       v.1
 // Luis Manuel Flores - POO1
 
 import java.util.Scanner;
