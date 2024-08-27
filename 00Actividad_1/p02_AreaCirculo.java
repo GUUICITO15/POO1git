@@ -16,5 +16,6 @@ public class p02_AreaCirculo{
         area = Math.PI*Math.pow(radio,2);
 
         System.out.println("El circulo de radio " + radio + " tiene un area de: " + area);
+        sc.close();
     }
 }

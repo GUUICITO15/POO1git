@@ -29,6 +29,7 @@ public class p05_OperacionesMatematicas {
         System.out.println(String.format("la divicion es:\t\t%.2f", div));
         System.out.println(String.format("la resto es:\t\t%.2f", res));
         System.out.println(String.format("la potencia es:\t\t%.2f", pot));
+        sc.close();
     }
     
 }

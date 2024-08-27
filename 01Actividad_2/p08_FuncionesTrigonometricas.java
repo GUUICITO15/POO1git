@@ -9,9 +9,12 @@ public class p08_FuncionesTrigonometricas {
     public static void main(String[] args) {
         System.out.print("\033[H\033[2J");
         System.out.flush();
+        
+        double angulog;
+        Scanner sc = new Scanner(System.in);
 
         System.out.print("Dame un angulo en Grados: ");
-        double angulog = new Scanner(System.in).nextDouble();
+        angulog = sc.nextDouble();
 
         double anguloR = Math.toRadians(angulog);
         double sen = Math.sin(anguloR);
@@ -20,7 +23,9 @@ public class p08_FuncionesTrigonometricas {
         
         System.out.println(String.format(
             "El angulo es: %.2f\nSeno: %.2f\nCoseno: %.2f\\nTangente: %.2f", anguloR, sen, cos, tan
-            ));
+        ));
+        
+        sc.close();
     }
     
 }

@@ -28,7 +28,8 @@ public class p06_PromedioCalificaciones{
         System.out.printf("La suma : %.2f \n",suma);
         System.out.printf("El promedio : %.2f \n",prom);
         System.out.printf("La menor : %.2f \n",min);
-        System.out.printf("La mayor : %.2f \n",max);
+        System.out.printf("La mayor : %.2f \n", max);
+        sc.close();
     }
     
 }

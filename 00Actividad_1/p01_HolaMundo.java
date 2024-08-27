@@ -1,6 +1,8 @@
+
 // p01_HolaMundo - manda una salida de Hola Mundo en la pantalla
 // 14 - 08 - 2024       v.1
 // Luis Manuel Flores - POO1
+
 public class p01_HolaMundo{
     public static void main(String[] args){
         String amiga = "Karina";
