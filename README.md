@@ -18,7 +18,7 @@
 - p08_FuncionesTrigonometricas
 - p09_DividirEnCifras
 
-## Practica 1
+## Practica 1 - Elementos básicos de Java
 
 - p10_HipotenusaTriangulo
 - p11_CalcularAngulo
@@ -55,3 +55,12 @@
 - p30_DiaSemana
 - p31_NumerosRomanos
 - p32_PagoEstacionamiento
+
+## Practica 2 - Ejecución condicional
+
+- p33_NumerosConsecutivos
+- p34_NumeroMayor
+- p35_ContinentesMundo
+- p36_CompraPizza
+- p37_CalculoNotas
+- p38_AceptarEstudianteV2
