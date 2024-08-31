@@ -77,3 +77,10 @@
 - p42a_TablaMultiplicar
 - p42b_TablaMultiplicar
 - p43_ConteoNumeros
+
+## Actividad 8
+
+- p44_ParesAscendente
+- p45_ImparesDescendente
+- p46_TablaConversion
+- p47_ConjeturaCollatz
