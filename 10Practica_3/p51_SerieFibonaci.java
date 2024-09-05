@@ -1,5 +1,5 @@
 // p51_SerieFibonaci - pantilla de trabajo POO en java
-// 28 - 08 - 2024       v.1
+// 03 - 09 - 2024       v.1
 // Luis Manuel Flores - POO1
 
 import java.util.ArrayList;

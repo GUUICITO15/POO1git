@@ -1,5 +1,5 @@
 // _Plantilla - Imprime números pares decendente desde 100
-// 28 - 08 - 2024       v.1
+// 03 - 09 - 2024       v.1
 // Luis Manuel Flores - POO1
 
 import java.util.Scanner;
