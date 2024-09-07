@@ -9,6 +9,7 @@ public class p58_Piramide {
         int i,j,n;
         char car, resp;
         Scanner sc = new Scanner(System.in);
+        
         do {
             System.out.print("\033[H\033[2J");
             System.out.flush();
