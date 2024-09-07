@@ -1,5 +1,5 @@
 // p64_SumaTerminos2 - Suma de n 1s
-// 05 - 09 - 2024       v.3
+// 06 - 09 - 2024       v.3
 // Luis Manuel Flores - POO1
 
 import java.util.Scanner;
