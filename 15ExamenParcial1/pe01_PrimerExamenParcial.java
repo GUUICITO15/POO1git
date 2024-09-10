@@ -24,7 +24,7 @@ public class pe01_PrimerExamenParcial {
                 sumEdad += edad;
             } while (edad < 0);
 
-            if (edad <= 23) {
+            if (edad >= 23) {
                 do{
                     System.out.print("Tipo de participante (A)lumno, (D)ocente, (T)rabajador: ");
                     tipoParticipante = Character.toUpperCase(sc.next().charAt(0));
