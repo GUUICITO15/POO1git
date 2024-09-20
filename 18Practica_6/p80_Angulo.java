@@ -1,4 +1,4 @@
-// p80_Angulo - pantilla de trabajo POO en java
+// p80_Angulo - Recibe como parámetro un ángulo entre 0 y 360 grados, y regresa una palabra con el tipo de ángulo
 // 18 - 09 - 2024       v.1
 // Luis Manuel Flores - POO1
 
