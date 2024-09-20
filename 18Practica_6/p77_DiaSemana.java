@@ -5,6 +5,12 @@
 import java.util.Scanner;
 
 public class p77_DiaSemana {
+    
+    /**
+     * Recibe un numero y da el equivalente de la semana empendo por lunes y 1
+     * @param dia (int) valor numerico entre 1 y 7 represtentante de un día de la semana empezando por lunes
+     * @return el dia que se proporcviono en numero pero en palabra (String)
+     */
     public static String day(int dia) {
         String diaLetras = "";
 

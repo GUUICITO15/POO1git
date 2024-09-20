@@ -5,10 +5,21 @@
 import java.util.Scanner;
 
 public class p78_MedidasLongitud {
+    
+    /**
+     * Combierte pulgadas a centimetros
+     * @param pulgadas (float) las pulgadas a convertir en centimetros
+     * @return regresa el valor equivalente en centimetros (float)
+     */
     public static Float centimetros(float pulgadas) {
         return pulgadas * 2.54f;
     }
     
+    /**
+     * Combierte metros a pies
+     * @param metros (float) los metros a convertir en pies
+     * @return regresa el valor equivalente en pies (float)
+     */
     public static Float pies(float metros) {
         return metros * 3.281f;
     }

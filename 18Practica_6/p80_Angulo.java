@@ -5,7 +5,13 @@
 import java.util.Scanner;
 
 public class p80_Angulo {
-    public static String angulo(int anguloNum) {
+    
+    /**
+     * identifica que tipo de angulo es el angulo dado
+     * @param anguloNum (int) angulo de forma numerica
+     * @return regresa el tipo de angulo que es el angulo dado (String)
+     */
+    public static String tipoAngulo(int anguloNum) {
         if(anguloNum < 90)
             return "Agudo";
 
@@ -42,7 +48,7 @@ public class p80_Angulo {
                 System.out.println("por favor, que sea no menor a 0 y no mayor a 360");;
         } while (anguloNum < 0 || anguloNum > 360);
 
-        System.out.println(anguloNum + " es un angulo: " + angulo(anguloNum));
+        System.out.println(anguloNum + " es un angulo: " + tipoAngulo(anguloNum));
 
         System.out.println("\n\nProceso terminado...");
         sc.close();

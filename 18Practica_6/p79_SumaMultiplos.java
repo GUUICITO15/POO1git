@@ -5,6 +5,14 @@
 import java.util.Scanner;
 
 public class p79_SumaMultiplos {
+    
+    /**
+     * identifica los multiplos de un numero dado entre dos numeros y los suma
+     * @param limInf (int) limite inferior
+     * @param limSup (int) limite superior
+     * @param mult (int) numero del cual se buscaran sus multiplos
+     * @return regresa la suma de los multiplos del mult (int)
+     */
     public static int sumaMultiplos(int limInf, int limSup, int mult) {
         int sum = 0;
 
