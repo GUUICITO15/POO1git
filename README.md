@@ -153,3 +153,10 @@
 - p83_InicializaNombresEdades
 - p84_LeerArregloCalificaciones
 - p85_NombresEdades
+
+## Actividad 14
+
+- p86_ArregloMostrar
+- p87_ArregloTemperaturas
+- p88_Aleatorios
+- p89_ArregloAleatorios
