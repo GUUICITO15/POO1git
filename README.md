@@ -3,14 +3,15 @@
 - Nombre: Luis Manuel Flores Ortiz
 - Correo: luismanuel.arq15@gmail.com
 
-## Actividad 1
+# Parcial 1
+### Actividad 1
 
 - p01_HolaMundo
 - p02_AreaCirculo
 - p03_AreaTriangulo
 - p04_PagaTrabajador
 
-## Actividad 2
+### Actividad 2
 
 - p05_OperacionesMatematicas
 - p06_PromedioCalificaciones
@@ -18,7 +19,7 @@
 - p08_FuncionesTrigonometricas
 - p09_DividirEnCifras
 
-## Practica 1 - Elementos básicos de Java
+### Practica 1 - Elementos básicos de Java
 
 - p10_HipotenusaTriangulo
 - p11_CalcularAngulo
@@ -27,7 +28,7 @@
 - p14_CalculoTiempo
 - p15_ConvertirADolares
 
-## Actividad 3
+### Actividad 3
 
 - p16_TrabajandoEnteros
 - p17_TrabajandoFlotantes
@@ -35,28 +36,28 @@
 - p19_TrabajandoCaracteres
 - p20_ConversionTipos
 
-## Actividad 4
+### Actividad 4
 
 - p21_VerificaNumero
 - p22_VerificaSuma
 - p23_ConvertirTemperaturas
 - p24_PagaTrabajadorv2
 
-## Actividad 5
+### Actividad 5
 
 - p25_EstacionesAño
 - p26_TipoAngulo
 - p27_AceptarEstudiante
 - p28_LeyDeNewton
 
-## Actividad 6
+### Actividad 6
 
 - p29_Calculadora
 - p30_DiaSemana
 - p31_NumerosRomanos
 - p32_PagoEstacionamiento
 
-## Practica 2 - Ejecución condicional
+### Practica 2 - Ejecución condicional
 
 - p33_NumerosConsecutivos
 - p34_NumeroMayor
@@ -65,7 +66,7 @@
 - p37_CalculoNotas
 - p38_AceptarEstudianteV2
 
-## Actividad 7
+### Actividad 7
 
 - p39a_Numeros1a100
 - p39b_Numeros1a100
@@ -78,21 +79,21 @@
 - p42b_TablaMultiplicar
 - p43_ConteoNumeros
 
-## Actividad 8
+### Actividad 8
 
 - p44_ParesAscendente
 - p45_ImparesDescendente
 - p46_TablaConversion
 - p47_ConjeturaCollatz
 
-## Práctica 3 - Ejecución repetitiva - while
+### Práctica 3 - Ejecución repetitiva - while
 
 - p48_ImparesAscendente
 - p49_ParesDescendente
 - p50_ConversionTemperaturas
 - p51_SerieFibonaci
 
-## Actividad 9
+### Actividad 9
 
 - p52_Numeros1aN
 - p53_NumerosNa1
@@ -100,29 +101,30 @@
 - p55_SumaParesImpares
 - p56_SumaPromedio
 
-## Actividad 10
+### Actividad 10
 
 - p57_TablasMultiplicar
 - p58_Piramide
 - p59_FactorialNumeros
 - p60_SumaTerminos
 
-## Practica 4 - Ejecución repetitiva - for
+### Practica 4 - Ejecución repetitiva - for
 
 - p61_SecuenciaNumeros1
 - p62_SecuenciaNumeros2
 - p63_SumaTerminos1
 - p64_SumaTerminos2
 
-## Practica 5 - Practica de repaso 1er Parcial
+### Practica 5 - Practica de repaso 1er Parcial
 
 - p65_ControlFotocopias
 
-# Primer Examen Parcial
+## Primer Examen Parcial
 
 - pe01_PrimerExamenParcia
 
-## Actividad 11
+# Parcial 2
+### Actividad 11
 
 - p66_PromedioNumeros
 - p67_ConversionTemperaturas
@@ -130,7 +132,7 @@
 - p69_TablaMultiplicar
 - p70_CalificacionLetra
 
-## Actividad 12
+### Actividad 12
 
 - p71_MayorTresNumeros
 - p72_SumaDigitos
@@ -138,7 +140,7 @@
 - p74_Factorial
 - p75_CuadroCaracter
 
-## Practica 6 - Funciones
+### Practica 6 - Funciones
 
 - p76_NumeroMenor
 - p77_DiaSemana  
@@ -146,7 +148,7 @@
 - p79_SumaMultiplos
 - p80_Angulo
 
-## Actividad 13
+### Actividad 13
 
 - p81_InicializaArregloNumeros
 - p82_InicializaArregloCadenas
@@ -154,28 +156,28 @@
 - p84_LeerArregloCalificaciones
 - p85_NombresEdades
 
-## Actividad 14
+### Actividad 14
 
 - p86_ArregloMostrar
 - p87_ArregloTemperaturas
 - p88_Aleatorios
 - p89_ArregloAleatorios
 
-## Práctica 7 - Arreglos
+### Práctica 7 - Arreglos
 
 - p90_Temperaturas
 - p91_MayoresPromedio
 - p92_MayorMenor
 - p93_ParesImpares 
 
-## Actividad 15
+### Actividad 15
 
 - p94_Empleado01
 - p95_Empleado02
 - p96_Empleado03
 - p97_Empleado04
 
-## Practica 8 - POO Clases y Objetos
+### Practica 8 - POO Clases y Objetos
 
 - p98_Circulo
 - p99_Rectangulo
