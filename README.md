@@ -193,3 +193,8 @@
 
 - p104_PuntoCirculo
 - p105_PuntoTriangulo
+
+### Actividad 17
+
+- p106_Persona
+- p107_Forma
