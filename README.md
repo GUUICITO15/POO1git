@@ -215,3 +215,7 @@
 ### Practica 11 - POO - Repaso - Examen parcial 02
 
 - p112_ControlVentas
+
+## Segundo Examen Parcial
+
+-  p112_ControlVentas
