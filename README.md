@@ -220,6 +220,8 @@
 
 -  p112_ControlVentas
 
+# Parcial 3
+
 ### Actividad 20
 
 - p114_Animal
